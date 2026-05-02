@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+crewai
+tavily-python
+python-dotenv
+schedule
